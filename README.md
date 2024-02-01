@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hengmanith
-- 👀 I’m interested in dataa science
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning digital economy
 - 💞️ I’m looking to collaborate on my data science certyficate
 - 📫 How to reach me ...
